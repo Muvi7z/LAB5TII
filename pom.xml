@@ -13,12 +13,5 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
     <!-- https://mvnrepository.com/artifact/io.jenetics/jenetics -->
-    <dependencies>
-        <dependency>
-            <groupId>io.jenetics</groupId>
-            <artifactId>jenetics</artifactId>
-            <version>6.3.0</version>
-        </dependency>
 
-    </dependencies>
 </project>
